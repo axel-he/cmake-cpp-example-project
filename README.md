@@ -1,4 +1,3 @@
 # CMake Example Project
 
-The repository contains an `C/C++` library project with CMake.
-This project also includes the `GTest` Framework for Unit testing.
+Example *CMake* project for a `C/C++` shared library. Includes unit testing with *GTest*.
